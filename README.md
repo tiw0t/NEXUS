@@ -37,17 +37,17 @@ To learn more about developing your project with Expo, look at the following res
 - React.js: A React framework for server-side rendering and routing.
 - TypeScript: A programming language to add static typing to the code.
 
-### 🖥️ Screenshots:
-
-
-<img width="302" height="643" alt="bem-vindo 1" src="https://github.com/user-attachments/assets/09d465a9-0de8-40e0-8dd4-af3e43f67c2f" />
-<img width="298" height="659" alt="entrarcadastrarUSER" src="https://github.com/user-attachments/assets/e359756d-6367-45d9-a650-e5ca5a5f3c30" />
-<img width="291" height="637" alt="entrar" src="https://github.com/user-attachments/assets/b071eded-6374-409b-9148-43da746b789f" />
-<img width="295" height="637" alt="cadastre-se" src="https://github.com/user-attachments/assets/b74a1e58-eb4e-4635-af51-13ab63df1ada" />
-<img width="298" height="654" alt="home" src="https://github.com/user-attachments/assets/d277306b-de9e-465a-8816-f96fbc5d3845" />
-<img width="294" height="642" alt="estoque" src="https://github.com/user-attachments/assets/5eb61b91-a115-4f5c-b63b-0aac5ff6008c" />
-<img width="291" height="639" alt="pedidos" src="https://github.com/user-attachments/assets/54803205-1374-4f9b-9ad3-bef755d57066" />
-<img width="299" height="651" alt="solicitar" src="https://github.com/user-attachments/assets/459f1cec-fc12-47b9-974c-2a9e88f3dd4b" />
+## 🖥️ Screenshots:
+### 🎓Docente
+<img width="100" height="300" alt="splash" src="https://github.com/user-attachments/assets/b422cf34-d002-4f5c-91c8-60935f6a2a77" />
+<img width="100" height="300" alt="bem-vindo 1" src="https://github.com/user-attachments/assets/09d465a9-0de8-40e0-8dd4-af3e43f67c2f" />
+<img width="100" height="300" alt="entrarcadastrarUSER" src="https://github.com/user-attachments/assets/e359756d-6367-45d9-a650-e5ca5a5f3c30" />
+<img width="100" height="300" alt="entrar" src="https://github.com/user-attachments/assets/b071eded-6374-409b-9148-43da746b789f" />
+<img width="100" height="300" alt="cadastre-se" src="https://github.com/user-attachments/assets/b74a1e58-eb4e-4635-af51-13ab63df1ada" />
+<img width="100" height="300" alt="home" src="https://github.com/user-attachments/assets/d277306b-de9e-465a-8816-f96fbc5d3845" />
+<img width="100" height="300" alt="estoque" src="https://github.com/user-attachments/assets/5eb61b91-a115-4f5c-b63b-0aac5ff6008c" />
+<img width="100" height="300" alt="pedidos" src="https://github.com/user-attachments/assets/54803205-1374-4f9b-9ad3-bef755d57066" />
+<img width="100" height="300" alt="solicitar" src="https://github.com/user-attachments/assets/459f1cec-fc12-47b9-974c-2a9e88f3dd4b" />
 
 
 
